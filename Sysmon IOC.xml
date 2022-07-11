@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<event_sets>
+  <set_elements setName="Sysmon IOC" eventSetId="51461815" snmpTraps="0">
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*rclone.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Invoke-Kerberoast.ps1*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*AdFind.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*3a3725bf0cca3fc3d641aed0a1280b7d957aa5c872223f1b6320f315bdea457d*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Proxifier.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*rclonemanager.ps1*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*9b5d1f6a94ce122671a5956b2016e879428c74964174739b68397b6384f6ee8b*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*RouterScan.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*AnyDesk.exe --install*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*SpecialAccountsUserlist*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*--prockiller*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*lsass.dmp*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*ngrok*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Invoke-SMBAutoBrute*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Net-GPPPassword*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Mimikatz*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*lsadump*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Invoke-Nightmare*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*.RGNR*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*delete shadows*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*net.exe stop &#34;SamSs&#34;*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*cobalt*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*rclone*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*	855110b830e17a9e981c4d3dd0db2c55bc0fafd42b68382f5f188b53e718fd12*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*	9870b159b19b37cbf36f0d8d3132f1c85c1d871e874a93c5c51de90fcef1f56f*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*wmic shadowcopy delete*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*bcdedit /set {default} recoveryenabled No*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*bcdedit /set {default} bootstatuspolicy ignoreallfailures*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Lsystem-234-bit.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*FromBase64String*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*badger*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*.ISO *"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*decret*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*invoke-ReflectivePEInjection*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*\Roaming\svhost.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*\Roaming\svhostt.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Bloodhound*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*98674f1284d283300c2d859a522334ea0bcd9a4520ebb924467c83accbcf141d*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*b211ad94e3ebe0d4790b4b11c71856adad6e210d3e210958a9bab9b9fccbe2a8*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*7895f429911a9256f33b87db8bc56f33747548e55630418c012925a1076af856*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*SharpHound*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*karmaSMB.py*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*split_windows.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*sniff_windows.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*solarmarker.dat*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*goldenPac.py*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*dcomexec_windows.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*secretsdump.py*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*sambaPipe_windows.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*sniffer_windows.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*ticketer_windows.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*opdump_windows.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*smbexec.py*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*ntlmrelayx.py*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*samrdump.py*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*getTGT*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*sniff_windows.exe*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*15aa77203833805b0197e10e8f8e899b*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*04ec63dc57a3946bb679e798158105ba*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*24a9b624e618b466c85a48f54650a088*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*55d5488468ce27cfcb0c49a7253bac24*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*29794ef77487e99c9cffbc85b1e5459bf05bf529b45b780d081e2f4cc54a02a7*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*784ca9fe97e58d553f2f974abb678c8e86c930aa25e5246382f9d9caaa6070c*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*76b64698670bae111d9b68eedc25b02e85a82471da739e5ceedff0ce466c65f8*"/>
+  </set_elements>
+</event_sets>
