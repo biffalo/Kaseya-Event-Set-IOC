@@ -24,8 +24,8 @@
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*net.exe stop &#34;SamSs&#34;*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*cobalt*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*rclone*"/>
-    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*	855110b830e17a9e981c4d3dd0db2c55bc0fafd42b68382f5f188b53e718fd12*"/>
-    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*	9870b159b19b37cbf36f0d8d3132f1c85c1d871e874a93c5c51de90fcef1f56f*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*855110b830e17a9e981c4d3dd0db2c55bc0fafd42b68382f5f188b53e718fd12*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*9870b159b19b37cbf36f0d8d3132f1c85c1d871e874a93c5c51de90fcef1f56f*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*wmic shadowcopy delete*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*bcdedit /set {default} recoveryenabled No*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*bcdedit /set {default} bootstatuspolicy ignoreallfailures*"/>
