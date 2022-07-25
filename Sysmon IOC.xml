@@ -32,7 +32,7 @@
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*Lsystem-234-bit.exe*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*FromBase64String*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*badger*"/>
-    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*.ISO *"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*.ISO"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*decret*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*invoke-ReflectivePEInjection*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*\Roaming\svhost.exe*"/>
@@ -72,5 +72,9 @@
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*6d506075f8c9493326f0012e007605f7*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*82cfa5272cc9085e7f6228e448d576eb*"/>
     <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*ab9ab682b855468a24460fecb9994d3e*"/>
+    <element_data ignore="1" source="*" category="*" eventId="-1" username="*" description="*C:\ktemp\cmmc\*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*lockbit*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*74a53d9db6b2358d3e5fe3accf0cb738*"/>
+    <element_data ignore="0" source="*" category="*" eventId="-1" username="*" description="*3a05e519067bea559491f6347dd6d296*"/>
   </set_elements>
 </event_sets>
